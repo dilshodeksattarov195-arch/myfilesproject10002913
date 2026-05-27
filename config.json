@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionspdate",
+        "uuid": 2213880,
+        "checksum": "j6cons"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
